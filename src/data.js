@@ -1,0 +1,42 @@
+export const data = [
+    {
+        Question: "Which of the following is used in React.js to increase performance?",
+        option1: "Virtual DOM",
+        option2: "Original DOM",
+        option3: "Both A and B",
+        option4: "None of the above",
+        answer: 1,
+    },
+    {
+        Question: "Identify the one which is used to pass data to components from outside",
+        option1: "Render with arguments",
+        option2: "setState",
+        option3: "PropTypes",
+        option4: "props",
+        answer: 4,
+    },
+    {
+        Question: "What is ReactJS mainly used for building?",
+        option1: "Database",
+        option2: "Connectivity",
+        option3: "User Interface",
+        option4: "Design platform",
+        answer: 3,
+    },
+    {
+        Question: "JSX stands for __________",
+        option1: "Javascript XML",
+        option2: "JSON XML",
+        option3: "JSON",
+        option4: "Javascript and AngularJS",
+        answer: 1,
+    },
+    {
+        Question: "What are arbitrary inputs of components in react also known as?",
+        option1: "Elements",
+        option2: "Props",
+        option3: "Keys",
+        option4: "Ref",
+        answer: 2,
+    },
+]

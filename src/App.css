@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.correct {
+    background-color: #73cca9;
+    border-color: #00d397;
+}
+
+.wrong {
+    background-color: #e39292;
+    border-color: #ff4a4a;
+}
+
+ ul li {
+    display: flex;
+    align-items: center;
+    height: 40px;
+    padding-left: 15px;
+    border: 1px solid #686868;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: -30px;
+}
